@@ -8,19 +8,26 @@ $data = array(
         'district' => 'ctg',
     ),
     array(
-        'fname'    => 'Rahul',
+        'fname'    => 'Shadin',
         'lname'    => 'Khan',
-        'email'    => 'rahuk@gmail.com',
+        'email'    => 'shadin@gmail.com',
         'phone'    => time(),
         'district' => 'cumilla',
     ),
     array(
-        'fname'    => 'Israt',
+        'fname'    => 'Arafat',
         'lname'    => 'Khan',
-        'email'    => 'israt@gmail.com',
+        'email'    => 'arafat@gmail.com',
         'phone'    => time(),
         'district' => 'cumilla',
     ),
+    array(
+        'fname'    => 'Robil',
+        'lname'    => 'Khan',
+        'email'    => 'robin@gmail.com',
+        'phone'    => time(),
+        'district' => 'cumilla',
+    )
 );
 
 foreach ( $data as $entry ) {
